@@ -1,0 +1,6 @@
+[submodule "src/injdrvdxvk"]
+	path = src/injdrvdxvk
+	url = https://github.com/rinky-dink/injdrvdxvk
+[submodule "src/imspinner"]
+	path = src/imspinner
+	url = https://github.com/dalerank/imspinner

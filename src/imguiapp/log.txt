@@ -1,0 +1,9 @@
+{"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+badAnswer : 0
+apiError : 1
+needUpdate : 0
+{"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+badAnswer : 0
+apiError : 1
+needUpdate : 0
+Found: 
